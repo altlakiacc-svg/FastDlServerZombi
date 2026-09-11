@@ -1,0 +1,53 @@
+L 04/30/2018 - 15:39:56: -------- Mapchange to de_dust2 --------
+L 04/30/2018 - 15:40:20: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\xredirect.txt" line 1)
+L 04/30/2018 - 15:41:38: [xredirect.amxx] Ошибка: наш сервер не был обнаружен, плагин не будет функционировать правльно
+L 04/30/2018 - 15:42:47: [admin.amxx] Login: "Keeper<10><STEAM_0:1:189093674><>" became an admin (account "Keeper") (access "abcdefijkmnopqrstu") (address "192.168.0.106")
+L 04/30/2018 - 15:42:54: [amxx_podbotmenu.amxx] [POD-Bot] "<10><STEAM_0:1:189093><>" add a bot
+L 04/30/2018 - 15:42:55: [amxx_podbotmenu.amxx] [POD-Bot] "<10><STEAM_0:1:189093><>" add a bot
+L 04/30/2018 - 15:42:56: [amxx_podbotmenu.amxx] [POD-Bot] "<10><STEAM_0:1:189093><>" add a bot
+L 04/30/2018 - 15:42:57: [amxx_podbotmenu.amxx] [POD-Bot] "<10><STEAM_0:1:189093><>" add a bot
+L 04/30/2018 - 15:42:58: [amxx_podbotmenu.amxx] [POD-Bot] "<10><STEAM_0:1:189093><>" add a bot
+L 04/30/2018 - 15:42:59: [amxx_podbotmenu.amxx] [POD-Bot] "<10><STEAM_0:1:189093><>" add a bot
+L 04/30/2018 - 15:42:59: [amxx_podbotmenu.amxx] [POD-Bot] "<10><STEAM_0:1:189093><>" add a bot
+L 04/30/2018 - 15:43:00: [amxx_podbotmenu.amxx] [POD-Bot] "<10><STEAM_0:1:189093><>" add a bot
+L 04/30/2018 - 15:43:01: [amxx_podbotmenu.amxx] [POD-Bot] "<10><STEAM_0:1:189093><>" add a bot
+L 04/30/2018 - 15:43:02: [amxx_podbotmenu.amxx] [POD-Bot] "<10><STEAM_0:1:189093><>" add a bot
+L 04/30/2018 - 15:43:03: [amxx_podbotmenu.amxx] [POD-Bot] "<10><STEAM_0:1:189093><>" add a bot
+L 04/30/2018 - 15:43:04: [amxx_podbotmenu.amxx] [POD-Bot] "<10><STEAM_0:1:189093><>" add a bot
+L 04/30/2018 - 15:43:05: [amxx_podbotmenu.amxx] [POD-Bot] "<10><STEAM_0:1:189093><>" add a bot
+L 04/30/2018 - 15:43:06: [amxx_podbotmenu.amxx] [POD-Bot] "<10><STEAM_0:1:189093><>" add a bot
+L 04/30/2018 - 15:43:09: [amxx_podbotmenu.amxx] [POD-Bot] "<10><STEAM_0:1:189093><>" add a bot
+L 04/30/2018 - 15:43:10: [amxx_podbotmenu.amxx] [POD-Bot] "<10><STEAM_0:1:189093><>" add a bot
+L 04/30/2018 - 15:43:11: [amxx_podbotmenu.amxx] [POD-Bot] "<10><STEAM_0:1:189093><>" add a bot
+L 04/30/2018 - 15:43:12: [amxx_podbotmenu.amxx] [POD-Bot] "<10><STEAM_0:1:189093><>" add a bot
+L 04/30/2018 - 15:43:12: [amxx_podbotmenu.amxx] [POD-Bot] "<10><STEAM_0:1:189093><>" add a bot
+L 04/30/2018 - 15:43:13: [amxx_podbotmenu.amxx] [POD-Bot] "<10><STEAM_0:1:189093><>" add a bot
+L 04/30/2018 - 15:43:14: [amxx_podbotmenu.amxx] [POD-Bot] "<10><STEAM_0:1:189093><>" add a bot
+L 04/30/2018 - 15:43:16: [amxx_podbotmenu.amxx] [POD-Bot] "<10><STEAM_0:1:189093><>" add a bot
+L 04/30/2018 - 15:43:18: [amxx_podbotmenu.amxx] [POD-Bot] "<10><STEAM_0:1:189093><>" add a bot
+L 04/30/2018 - 15:43:21: [amxx_podbotmenu.amxx] [POD-Bot] "<10><STEAM_0:1:189093><>" add a bot
+L 04/30/2018 - 15:43:22: [amxx_podbotmenu.amxx] [POD-Bot] "<10><STEAM_0:1:189093><>" add a bot
+L 04/30/2018 - 15:43:23: [amxx_podbotmenu.amxx] [POD-Bot] "<10><STEAM_0:1:189093><>" add a bot
+L 04/30/2018 - 15:43:24: [amxx_podbotmenu.amxx] [POD-Bot] "<10><STEAM_0:1:189093><>" add a bot
+L 04/30/2018 - 15:43:31: [amxx_podbotmenu.amxx] [POD-Bot] "<10><STEAM_0:1:189093><>" add a bot
+L 04/30/2018 - 15:43:55: [plmenu.amxx] Cmd: "Keeper<10><STEAM_0:1:189093674><>" slay "[P*D]Robert_Downey_Jr (100)<4><BOT><>"
+L 04/30/2018 - 15:45:14: [plmenu.amxx] Kick: "Keeper<10><STEAM_0:1:189093674><>" kick "[P*D]Will_Smith (24)<11><BOT><>"
+L 04/30/2018 - 15:45:14: [plmenu.amxx] Kick: "Keeper<10><STEAM_0:1:189093674><>" kick "[POD]DaTa (100)<3><BOT><>"
+L 04/30/2018 - 15:45:15: [plmenu.amxx] Kick: "Keeper<10><STEAM_0:1:189093674><>" kick "[P*D]Robert_Downey_Jr (100)<4><BOT><>"
+L 04/30/2018 - 15:45:16: [plmenu.amxx] Kick: "Keeper<10><STEAM_0:1:189093674><>" kick "[P0D]Bloodlust (100)<5><BOT><>"
+L 04/30/2018 - 15:45:17: [plmenu.amxx] Kick: "Keeper<10><STEAM_0:1:189093674><>" kick "[P0D]Sean_Penn (100)<6><BOT><>"
+L 04/30/2018 - 15:45:18: [plmenu.amxx] Kick: "Keeper<10><STEAM_0:1:189093674><>" kick "[P0D]Mel_Gibson (100)<7><BOT><>"
+L 04/30/2018 - 15:45:23: [plmenu.amxx] Kick: "Keeper<10><STEAM_0:1:189093674><>" kick "[P*D]Violently Happy (33)<12><BOT><>"
+L 04/30/2018 - 15:45:24: [plmenu.amxx] Kick: "Keeper<10><STEAM_0:1:189093674><>" kick "[P*D]George_Clooney (22)<14><BOT><>"
+L 04/30/2018 - 15:45:24: [plmenu.amxx] Kick: "Keeper<10><STEAM_0:1:189093674><>" kick "[P*D]Borg Queen (36)<15><BOT><>"
+L 04/30/2018 - 15:45:25: [plmenu.amxx] Kick: "Keeper<10><STEAM_0:1:189093674><>" kick "[P*D]DaTa (100)<37><BOT><>"
+L 04/30/2018 - 15:45:25: [plmenu.amxx] Kick: "Keeper<10><STEAM_0:1:189093674><>" kick "[P*D]Adam_Sandler (98)<38><BOT><>"
+L 04/30/2018 - 15:45:26: [plmenu.amxx] Kick: "Keeper<10><STEAM_0:1:189093674><>" kick "[POD]Killing Frenzy (99)<39><BOT><>"
+L 04/30/2018 - 15:45:26: [plmenu.amxx] Kick: "Keeper<10><STEAM_0:1:189093674><>" kick "[P*D]Jennifer_Love_Hewitt (96)<40><BOT><>"
+L 04/30/2018 - 15:45:26: [plmenu.amxx] Kick: "Keeper<10><STEAM_0:1:189093674><>" kick "[P0D]Keanau_Reeves (99)<41><BOT><>"
+L 04/30/2018 - 15:45:27: [plmenu.amxx] Kick: "Keeper<10><STEAM_0:1:189093674><>" kick "[P0D]Zap! (96)<42><BOT><>"
+L 04/30/2018 - 15:49:31: [plmenu.amxx] Cmd: "Keeper<10><STEAM_0:1:189093674><>" slay "Keeper<10><STEAM_0:1:189093674><>"
+L 04/30/2018 - 15:50:07: -------- Mapchange to de_dust2 --------
+L 04/30/2018 - 15:50:09: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\xredirect.txt" line 1)
+L 04/30/2018 - 15:50:19: [admin.amxx] Login: "Keeper<8><STEAM_0:1:189093674><>" became an admin (account "Keeper") (access "abcdefijkmnopqrstu") (address "192.168.0.106")
+L 04/30/2018 - 15:50:19: [xredirect.amxx] Ошибка: наш сервер не был обнаружен, плагин не будет функционировать правльно

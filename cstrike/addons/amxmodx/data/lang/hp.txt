@@ -1,0 +1,7 @@
+[ru]
+addhp = Вы купили /ctr[1000HP]
+addhp2 = У вас недостаточно паков
+
+[en]
+addhp = You bought /ctr[1000HP]
+addhp2 = You do not have the packs

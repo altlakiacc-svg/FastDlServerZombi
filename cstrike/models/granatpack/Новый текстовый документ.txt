@@ -1,0 +1,6 @@
+"models/p_flashbang.mdl" "models/granatpack/p_gren_fr.mdl"
+"models/w_flashbang.mdl" "models/granatpack/w_gren_fr.mdl"
+"models/p_hegrenade.mdl" "models/granatpack/p_gren_fi.mdl"
+"models/w_hegrenade.mdl" "models/granatpack/w_gren_fi.mdl"
+"models/p_smokegrenade.mdl" "models/granatpack/p_gren_fl.mdl"
+"models/w_smokegrenade.mdl" "models/granatpack/w_gren_fl.mdl"

@@ -1,0 +1,7 @@
+[ru]
+CLASS_SHAMAN = Способность /g [Колдовать] /y | Ожидание: /g[30] /yсек | Кнопка /g[E]
+CLASS_SHAMAN2 = Вы снова можете /g [Колдовать] /y | Кнопка /g[E]
+
+[en]
+CLASS_SHAMAN = Ability /g [Conjure] /y | Waiting: /g[30] /ysec | Button /g[E]
+CLASS_SHAMAN2 = Again you can /g [Conjure] /y | Button /g[E]

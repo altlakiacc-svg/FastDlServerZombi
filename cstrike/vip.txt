@@ -1,0 +1,26 @@
+﻿<html>
+<head>
+<style type="text/css">
+body	{
+	background-color: #000000;
+	font-family:Verdana,Tahoma;
+		}
+</style>
+	<meta http-equiv="Content-Type" content="text/html; charset=windows-1257">
+</head>
+<font size="2" color=#00c000><strong>Преимущества VIP-аккаунта (150рублей):</strong></font><br>
+<font size="2" color="#ffffff"><strong>3 прыжка в воздухе</strong></font><br />
+<font size="2" color="#ffffff"><strong>Полная броня + Vip сильнее</strong></font><br />
+<font size="2" color="#ffffff"><strong>За убийство 10 аммо паков</strong></font><br />
+<font size="2" color="#ffffff"><strong>За инфекцию 1000 жизни</strong></font><br />
+<font size="2" color="#ffffff"><strong>100 аммо каждую карту</strong></font><br />
+<font size="2" color="#ffffff"><strong>VIP при нажатии Tab</strong></font><br />
+<font size="2" color="#ffffff"><strong>В списке онлай при /vips</strong></font><br />
+<font size="2" color="#ffffff"><strong>VIP моделька</strong></font><br />
+<font size="2" color="#ffffff"><strong>Вип-зомби класс (способность замораживать людей)</strong></font><br />
+<font size="2" color="#ffffff"><strong>Доступен HAMMER</strong></font><br />
+<font size="2" color="#ffffff"><strong>Иммунитет от бана/кика</strong></font><br />
+<font size="2" color="#ffffff"><strong>Ник под пароль и резервный слот</strong></font><br />
+<font size="2" color="#ffffff"><strong>vk.com/lsd232</strong></font><br />
+</body>
+</html>

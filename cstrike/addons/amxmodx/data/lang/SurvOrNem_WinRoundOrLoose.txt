@@ -1,0 +1,11 @@
+[ru]
+SURV_WINROUND = !team%s!y получил'а !g%d АммоПаков%s!y за то что он'и выйграли этот раунд как выживающие!.
+NEM_WINROUND = !team%s!y получил'а !g%d АммоПаков%s!y за то что он'и выйграли этот раунд как Немезиды!.
+SURV_LOOSEROUND = !team%s!y получил'а !g%d АммоПаков%s!y за то что он'a убили Выжившего!.
+NEM_LOOSEROUND = !team%s!y получил'а !g%d АммоПаков%s!y за то что он'a убили Немезиса!. 
+
+[en]
+SURV_WINROUND = !team%s!y won !g%d AmmoPack%s!y for winning the round as survivor!.
+NEM_WINROUND = !team%s!y won !g%d AmmoPack%s!y for winning the round as nemesis!.
+SURV_LOOSEROUND = !team%s!y won !g%d AmmoPack%s!y for killing the survivor!.
+NEM_LOOSEROUND = !team%s!y won !g%d AmmoPack%s!y for killing the Nemesis!. 

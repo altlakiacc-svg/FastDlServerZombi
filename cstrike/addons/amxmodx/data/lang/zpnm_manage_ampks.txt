@@ -1,0 +1,50 @@
+[ru]
+ZPNM_GIVE_PLAYER1 = ADMIN!n: дал!t %d!n аммо!g %s
+ZPNM_GIVE_PLAYER2 = !gADMIN!t %s!n: дал!t %d!n аммо!g %s
+ZPNM_TAKE_PLAYER1 = ADMIN!n: взял!t %d!n ammo pack(s) from!g %s
+ZPNM_TAKE_PLAYER2 = !gADMIN!t %s!n: взял!t %d!n аммо из!g %s
+ZPNM_SET_PLAYER1 = ADMIN!n: установил!g %s!n's аммо!t %d
+ZPNM_SET_PLAYER2 = !gADMIN!t %s!n: установил!g %s!n's аммо!t %d
+
+ZPNM_GIVE_PLAYERS1 = ADMIN!n: give!t %d!n ammo pack(s) to!g everyone
+ZPNM_GIVE_PLAYERS2 = !gADMIN!t %s!n: give!t %d!n ammo pack(s) to!g everyone
+ZPNM_TAKE_PLAYERS1 = ADMIN!n: take!t %d!n ammo pack(s) from!g everyone
+ZPNM_TAKE_PLAYERS2 = !gADMIN!t %s!n: take!t %d!n ammo pack(s) from!g everyone
+ZPNM_SET_PLAYERS1 = ADMIN!n: set!g everyone!n's ammo pack(s) to!t %d
+ZPNM_SET_PLAYERS2 = !gADMIN!t %s!n: set!g everyone!n's ammo pack(s) to!t %d
+
+ZPNM_GIVE_SURVIVORS1 = ADMIN!n: give!t %d!n ammo pack(s) to!g every Survivor
+ZPNM_GIVE_SURVIVORS2 = !gADMIN!t %s!n: give!t %d!n ammo pack(s) to!g every Survivor
+ZPNM_TAKE_SURVIVORS1 = ADMIN!n: take!t %d!n ammo pack(s) from!g every Survivor
+ZPNM_TAKE_SURVIVORS2 = !gADMIN!t %s!n: take!t %d!n ammo pack(s) from!g every Survivor
+ZPNM_SET_SURVIVORS1 = ADMIN!n: set!g every Survivor!n's ammo pack(s) to!t %d
+ZPNM_SET_SURVIVORS2 = !gADMIN!t %s!n: set!g every Survivor!n's ammo pack(s) to!t %d
+
+ZPNM_GIVE_SNIPERS1 = ADMIN!n: give!t %d!n ammo pack(s) to!g every Sniper
+ZPNM_GIVE_SNIPERS2 = !gADMIN!t %s!n: give!t %d!n ammo pack(s) to!g every Sniper
+ZPNM_TAKE_SNIPERS1 = ADMIN!n: take!t %d!n ammo pack(s) from!g every Sniper
+ZPNM_TAKE_SNIPERS2 = !gADMIN!t %s!n: take!t %d!n ammo pack(s) from!g every Sniper
+ZPNM_SET_SNIPERS1 = ADMIN!n: set!g every Sniper!n's ammo pack(s) to!t %d
+ZPNM_SET_SNIPERS2 = !gADMIN!t %s!n: set!g every Sniper!n's ammo pack(s) to!t %d
+
+ZPNM_GIVE_HUMANS1 = ADMIN!n: give!t %d!n ammo pack(s) to!g every Human
+ZPNM_GIVE_HUMANS2 = !gADMIN!t %s!n: give!t %d!n ammo pack(s) to!g every Human
+ZPNM_TAKE_HUMANS1 = ADMIN!n: take!t %d!n ammo pack(s) from!g every Human
+ZPNM_TAKE_HUMANS2 = !gADMIN!t %s!n: take!t %d!n ammo pack(s) from!g every Human
+ZPNM_SET_HUMANS1 = ADMIN!n: set!g every Human!n's ammo pack(s) to!t %d
+ZPNM_SET_HUMANS2 = !gADMIN!t %s!n: set!g every Human!n's ammo pack(s) to!t %d
+
+ZPNM_GIVE_NEMESIS1 = ADMIN!n: give!t %d!n ammo pack(s) to!g every Nemesis
+ZPNM_GIVE_NEMESIS2 = !gADMIN!t %s!n: give!t %d!n ammo pack(s) to!g every Nemesis
+ZPNM_TAKE_NEMESIS1 = ADMIN!n: take!t %d!n ammo pack(s) from!g every Nemesis
+ZPNM_TAKE_NEMESIS2 = !gADMIN!t %s!n: take!t %d!n ammo pack(s) from!g every Nemesis
+ZPNM_SET_NEMESIS1 = ADMIN!n: set!g every Nemesis!n's ammo pack(s) to!t %d
+ZPNM_SET_NEMESIS2 = !gADMIN!t %s!n: set!g every Nemesis!n's ammo pack(s) to!t %d
+
+ZPNM_GIVE_ZOMBIES1 = ADMIN!n: give!t %d!n ammo pack(s) to!g every Zombie
+ZPNM_GIVE_ZOMBIES2 = !gADMIN!t %s!n: give!t %d!n ammo pack(s) to!g every Zombie
+ZPNM_TAKE_ZOMBIES1 = ADMIN!n: take!t %d!n ammo pack(s) from!g every Zombie
+ZPNM_TAKE_ZOMBIES2 = !gADMIN!t %s!n: take!t %d!n ammo pack(s) from!g every Zombie
+ZPNM_SET_ZOMBIES1 = ADMIN!n: set!g every Zombie!n's ammo pack(s) to!t %d
+ZPNM_SET_ZOMBIES2 = !gADMIN!t %s!n: set!g every Zombie!n's ammo pack(s) to!t %d
+

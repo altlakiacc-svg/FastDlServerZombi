@@ -1,0 +1,18 @@
+L 04/29/2018 - 16:50:19: Start of error session.
+L 04/29/2018 - 16:50:19: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20180429.log")
+L 04/29/2018 - 16:50:19: [ENGINE] Invalid entity 125
+L 04/29/2018 - 16:50:19: [AMXX] Displaying debug trace (plugin "azp_class_revenant_ice_4.amxx")
+L 04/29/2018 - 16:50:19: [AMXX] Run time error 10: native error (native "entity_set_float")
+L 04/29/2018 - 16:50:19: [AMXX]    [0] azp_class_revenant_ice_4.sma::ball_think (line 243)
+L 04/29/2018 - 16:50:48: [ENGINE] Invalid entity 125
+L 04/29/2018 - 16:50:48: [AMXX] Displaying debug trace (plugin "azp_class_revenant_ice_4.amxx")
+L 04/29/2018 - 16:50:48: [AMXX] Run time error 10: native error (native "entity_set_float")
+L 04/29/2018 - 16:50:48: [AMXX]    [0] azp_class_revenant_ice_4.sma::ball_think (line 243)
+L 04/29/2018 - 16:57:25: [ENGINE] Invalid entity 152
+L 04/29/2018 - 16:57:25: [AMXX] Displaying debug trace (plugin "azp_class_revenant_ice_4.amxx")
+L 04/29/2018 - 16:57:25: [AMXX] Run time error 10: native error (native "entity_set_float")
+L 04/29/2018 - 16:57:25: [AMXX]    [0] azp_class_revenant_ice_4.sma::ball_think (line 243)
+L 04/29/2018 - 16:57:49: [ENGINE] Invalid entity 140
+L 04/29/2018 - 16:57:49: [AMXX] Displaying debug trace (plugin "azp_class_revenant_ice_4.amxx")
+L 04/29/2018 - 16:57:49: [AMXX] Run time error 10: native error (native "entity_set_float")
+L 04/29/2018 - 16:57:49: [AMXX]    [0] azp_class_revenant_ice_4.sma::ball_think (line 243)

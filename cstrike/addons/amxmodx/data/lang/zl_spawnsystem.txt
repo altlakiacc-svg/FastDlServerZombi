@@ -1,0 +1,9 @@
+[en]
+RESP_END = Respawn ended
+RESP_NUM = Respawn num: %d
+RESP_ACTIVE = Respawn time: %d
+
+[ru]
+RESP_END = Возраждение закончилось
+RESP_NUM = Возраждений осталось: %d
+RESP_ACTIVE = Возраждение через: %d

@@ -1,0 +1,23 @@
+[en] 
+HPK_JOINMSG = * Players with bad connection will be removed from the server!
+HPK_KICKMSG = * Player %s was removed from the server for %L.
+HPK_KICKLOG = HPK: %s was removed from the server for %L.
+HPK_REASON = You were removed from the server to %L.
+HPK_AMXBANS = Bad connection to the server.
+HPK_IMMUNE = * Checking the quality of the connection is disabled due to immunity.
+HPK_PING = high ping
+LPK_PING = low ping
+HPK_LOSS = loosing packets
+HPK_FLUX = the unstable ping
+
+[ru] 
+HPK_JOINMSG = * Игроки с плохим соединением будут удалены с сервера!
+HPK_KICKMSG = %s удален с сервера за %L.
+HPK_KICKLOG = HPK: "%s" был удален с сервера за %L.
+HPK_REASON = Вы были удалены за %L!
+HPK_AMXBANS = Heka4ecTBeHHoe coeguHeHue.
+HPK_IMMUNE = * У вас имеется иммунитет, проверка качества соединения отключена.
+HPK_PING = высокий пинг
+LPK_PING = низкий пинг
+HPK_LOSS = плохое соединение
+HPK_FLUX = нестабильный пинг

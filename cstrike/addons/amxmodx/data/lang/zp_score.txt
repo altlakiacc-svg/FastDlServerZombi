@@ -1,0 +1,11 @@
+[ru] 
+SCORE_HUMANS = Люди %02d
+SCORE_ROUND = [ %02d ]
+SCORE_WINS = %02d Победы %02d
+SCORE_ZOMBIES = %02d Зомби
+
+[en] 
+SCORE_HUMANS = Humans %02d
+SCORE_ROUND = [ %02d ]
+SCORE_WINS = %02d Wins %02d
+SCORE_ZOMBIES = %02d Zombies

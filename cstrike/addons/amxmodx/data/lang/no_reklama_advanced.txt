@@ -1,0 +1,125 @@
+[ua]
+MENU_TITLEX = \rТвій конфіг містить спам. Почистити?
+MENU_KEY_YES = \yТАК\w, почистити конфіг та продовжити гру
+MENU_KEY_NO = \yНІ\w, від'єднатися від серверу
+MENU_TITLE2 = \rТвій нік містить спам. Прибрати?
+MENU_KEY_YES2 = \yТАК\w, змінити нік та продовжити гру
+MENU_KEY_NO2 = \yНІ\w, від'єднатися від серверу
+SHOW_WARNING = [AMXX] Реклама серверів/сайтів заборонена!
+
+[ru]
+MENU_TITLEX = \rТвой конфиг содержит спам. Почистить?
+MENU_KEY_YES = \yДА\w, почистить конфиг и продолжить игру
+MENU_KEY_NO = \yНЕТ\w, отсоедениться от сервера
+MENU_TITLE2 = \rТвой ник содержит спам. Почистить?
+MENU_KEY_YES2 = \yДА\w, сменить ник и продолжить игру
+MENU_KEY_NO2 = \yНЕТ\w, отсоедениться от сервера
+SHOW_WARNING = [AMXX] Реклама серверов/сайтов запрещена!
+
+[en]
+MENU_TITLEX = \rYour config contains spam. Clean it?
+MENU_KEY_YES = \yYES\w, clean the config and resume the game
+MENU_KEY_NO = \yNO\w, disconnect from the server
+MENU_TITLE2 = \rYour name contains spam. Rename?
+MENU_KEY_YES2 = \yYES\w, rename and resume the game
+MENU_KEY_NO2 = \yNO\w, disconnect from the server
+SHOW_WARNING = [AMXX] Do not advertise servers/sites!
+
+[fr]
+MENU_TITLEX = \rVotre configuration contient du spam. Netoyer?
+MENU_KEY_YES = \yOUI\w, netoyage de la configuration et reprise du jeu.
+MENU_KEY_NO = \yNON\w, deconnection du serveur.
+MENU_TITLE2 = \rVotre nom contient du spam. Renommer?
+MENU_KEY_YES2 = \yOUI\w, renommage et reprise du jeu.
+MENU_KEY_NO2 = \yNON\w, deconnection du serveur.
+SHOW_WARNING = [AMXX] Ne faites pas de publicite pour des serveurs/sites!
+
+[nl]
+MENU_TITLEX = \rJe configuratie bevat spam. Configuratie herstellen ?
+MENU_KEY_YES = \yJA\w, herstel configuratie en zet spel voort
+MENU_KEY_NO = \yNEE\w, verlaat de server
+MENU_TITLE2 = \rJe naam bevat spam. Hernoemen ?
+MENU_KEY_YES2 = \yJA\w, hernoem en zet spel voort
+MENU_KEY_NO2 = \yNEE\w, verlaat de server
+SHOW_WARNING = [AMXX] Adverteer geen servers / websites!
+
+[de]
+MENU_TITLEX = \rDeine Konfig enthält Spam. Soll sie aufgeräumt werden?
+MENU_KEY_YES = \yJA\w, räume auf und weiter zum Spiel.
+MENU_KEY_NO = \yNEIN\w, Verbindung zum Server trennen
+MENU_TITLE2 = \rDein Name enthält Spam, Jetzt umbenennen??
+MENU_KEY_YES2 = \yJA\w, umbenennen und weiter zum Spiel
+MENU_KEY_NO2 = \yNEIN\w, Verbindung zum Server trennen
+SHOW_WARNING = [AMXX] Werbe nicht für Server/Webseiten!
+
+[ro]
+MENU_TITLEX = \rConfiguratia ta contine spam. O cureti?
+MENU_KEY_YES = \yDA\w, curata configuratia si continua jocul
+MENU_KEY_NO = \yNU\w, iesi de pe server
+MENU_TITLE2 = \rNumele tau contine spam. Mai doreste schimbarea numelui?
+MENU_KEY_YES2 = \yDA\w, schimba numele si continua jocul
+MENU_KEY_NO2 = \yNU\w, iesi de pe server
+SHOW_WARNING = [AMXX] Nu faceti reclama la servere/site-uri!
+
+[pl]
+MENU_TITLEX = \rTwoj config zawiera spam, wyczyscic go?
+MENU_KEY_YES = \yTak\w, wyczysc moj config i kontynuuj gre
+MENU_KEY_NO = \yNie\w, rozlacz z serwera
+MENU_TITLE2 = \rTwoj nick zawiera spam. Zmienic?
+MENU_KEY_YES2 = \yTak\w, zmien nick i kontynuuj gre
+MENU_KEY_NO2 = \yNie\w, rozlacz z serwera
+SHOW_WARNING = [AMXX] Nie reklamuj serwerow ani stron www
+
+[sr]
+MENU_TITLEX = \rTvoj konfig sadrzi spam. Da ga ocistim?
+MENU_KEY_YES = \yDA\w, ocisti konfig i nastavi igru
+MENU_KEY_NO = \yNE\w, izadji sa servera
+MENU_TITLE2 = \rTvoj nick sadrzi spam. Da ga izmenim?
+MENU_KEY_YES2 = \yDA\w, izmeni i nastavi igru
+MENU_KEY_NO2 = \yNE\w, izadji sa servera
+SHOW_WARNING = [AMXX] Ne reklamiraj druge servere/sajtove!
+
+[da]
+MENU_TITLEX = \rDin konfiguration inholder spam, Ryd op?
+MENU_KEY_YES = \yYES\w, Ryd op i konfigurationen, og genoptag spillet
+MENU_KEY_NO = \yNO\w, Forlad serveren
+MENU_TITLE2 = \rDit navn inholder spam, nyt navn?
+MENU_KEY_YES2 = \yYES\w, Skift navn og genoptag spillet
+MENU_KEY_NO2 = \yNO\w, Forlad serveren
+SHOW_WARNING = [AMXX] Reklamér ikke for andre servere/sider
+
+[tr]
+MENU_TITLEX = \rAyarlariniz spam icerir. Temizlensin mi?
+MENU_KEY_YES = \yEVET\w, ayarlarimi temizle
+MENU_KEY_NO = \yHAYIR\w, baglantiyi kes
+MENU_TITLE2 = \rAdiniz spam icerir. Yeni isim verilsin mi?
+MENU_KEY_YES2 = \yEVET\w, ismimi yeniden adlandir
+MENU_KEY_NO2 = \yHAYIR\w, baglantiyi kes
+SHOW_WARNING = [AMXX] Diger sitelerin/serverlerin reklamani yapmak yasaktir!
+
+[hr]
+MENU_TITLEX = \rVas config sadrzi spam. Zelite li ocistiti ga?
+MENU_KEY_YES = \yDA\w, ocisti config i nastavi igru
+MENU_KEY_NO = \yNE\w, izlazim sa servera
+MENU_TITLE2 = \rVase ime sadrzi spam. Zelite li preimenovati ga?
+MENU_KEY_YES2 = \yDA\w, preimenuj ga i nastavi igru
+MENU_KEY_NO2 = \yNE\w, izlazim sa servera
+SHOW_WARNING = [AMXX] Ne reklamiraj servere/sajtove!
+
+[it]
+MENU_TITLEX = \rLa tua configurazione contiene spam. Vuoi cancellarla?
+MENU_KEY_YES = \ySI\w, cancella la configurazione e torna al gioco.
+MENU_KEY_NO = \yNO\w, disconnettimi dal server.
+MENU_TITLE2 = \rIl tuo nome contiene spam. Vuoi rinominarlo?
+MENU_KEY_YES2 = \ySI\w, rinomina e torna al gioco.
+MENU_KEY_NO2 = \yNO\w, disconnettimi dal server.
+SHOW_WARNING = [AMXX] Non fare pubblicità a server/siti!
+
+[bg]
+MENU_TITLEX = \rConfig-a ti sudyrja spam suobshteniq.Da go izchistim li?
+MENU_KEY_YES = \yDA\w, izchisti config-a i wuzobnovi igrata
+MENU_KEY_NO = \yNE\w, diskonectni me ot syrvyra
+MENU_TITLE2 = \rNicka ti sudurja spam. Da go preimenuvame li?
+MENU_KEY_YES2 = \yDA\w, preimenuvai i vuzobnovi igrata
+MENU_KEY_NO2 = \yNE\w, diskonectni me ot syrvyra
+SHOW_WARNING = [AMXX] Ne reklamirai serveri/saitove!

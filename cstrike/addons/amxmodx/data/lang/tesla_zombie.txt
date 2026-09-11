@@ -1,0 +1,19 @@
+[en]
+TESLA_ABILITY_READY = Ability !g[ Shoot ]!y ready! Press !g'Mouse2'!y for use!
+TESLA_ABILITY_INFO = You re ability is !g[ Shoots ]!y! Cooldown: !g15 sec!y! Press !g'Mouse2'!y for use!
+SHOOTS_REMAINING = Remaining shots: 
+
+SHOOTS_END = You have no more !g[ Shots ]!y!
+SHOOTS_CLOSE = Too close!
+
+ABILITY_COOLDOWN = Rewenge cooldown:^n%d second(s)
+
+[ru]
+TESLA_ABILITY_READY = Способность !g[ Выстрел ]!y готова! Нажимте !g'Mouse2'!y для использования!
+TESLA_ABILITY_INFO = Ваша способность: !g[ Выстрел ]!y! Откат: !g15 сек.!!y Нажимте !g'Mouse2'!y для использования!
+SHOOTS_REMAINING = Осталось выстрелов: 
+
+SHOOTS_END = У вас не осталось !g[ Выстрелов ]!y!
+SHOOTS_CLOSE = Слишком близко!
+
+ABILITY_COOLDOWN = Способность через:^n%d секунд(у)

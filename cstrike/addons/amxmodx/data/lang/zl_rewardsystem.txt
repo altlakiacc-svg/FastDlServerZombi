@@ -1,0 +1,5 @@
+[en]
+REWARD_KILL = %s Killed Boss!!! Reward %d$
+
+[ru]
+REWARD_KILL = %s Убил Босса!!! Награда %d Паков

@@ -1,0 +1,13 @@
+[ru]
+MENU_NAME = \rМеню голосования
+MENU_LIDER = \yЛидирует: \w%s
+MENU_TIME = \yВремя: \r%d сек.
+MENU_NUM = \yГолосов: \r[\y%d\w/\r%d\r]
+MENU_NOSELECT = не выбрана 
+
+[en]
+MENU_NAME = \rVote\yMap \wMenu
+MENU_LIDER = \rVote\yLider: \w%s
+MENU_TIME = \rVote\yTime: \r%d sec.
+MENU_NUM = \rVote\yNum: \r[\y%d\w/\r%d\r]
+MENU_NOSELECT = no select

@@ -1,0 +1,83 @@
+[ru]
+BIG_INFO = Способность /g[Ставить Ловушки] /y| Количество /g[%d] /y| Кнопка /g[R]
+BIG_INFO2 = Способность /g[Черный экран] /y(пассиве). Ожидание: /g %d сек.
+BIG_TIME = Способность через
+BIG_GOTOVO = Способность /g[Черный экран] /yготова
+BIG_TRAP = Вы попали в ловушку и не можете двигаться
+BIG_TRAPUSE = Вы ставите Ловушку
+BIG_TRAP2 = У вас осталось /g[%d]/y ловушек
+BIG_TRAPNET = У вас закончились все ловушки
+BIG_TRAPUSE2 = Вы должны стоять на месте, чтобы поставить Ловушку
+BIG_TRAPNET2 = Вы не можете поставить сдесь ловушку
+BIG_TRAPYRA = Вы поставили ловушку
+
+CLASS_SHAMAN = Способность /g[Колдовать]/y | Ожидание: /g[30]/y сек | Кнопка /g[E]
+CLASS_SHAMAN2 = Вы снова можете /g[Колдовать]/y | Кнопка /g[E]
+
+CLASS_SPEED = Разгон через
+CLASS_INFO = Способность /g[Разгон]/y готово | Кнопка /g[ALT].
+CLASS_INFO2 = Способность /g[Разгон]/y Ожидание: /g[%d]/y сек | Кнопка /g[ALT]
+
+CLASS_DOCTOR1 = Нажми /gATTACK2/y чтоб лечить зомби
+CLASS_DOCTOR2 = Команда /g'zp_h_exp'/y взорватcья если хп ниже , чем /ctr%iHP
+CLASS_DOCTOR3 = Исцеление: %s
+CLASS_DOCTOR4 = Не достаточно MP для лечения
+CLASS_DOCTOR5 = Целевая вне диапазона
+CLASS_DOCTOR6 = Отменено исцеление
+
+smoker1 = Вы не можете притягивать, если мертвы!
+smoker2 = Вы достигли лимита притягиваний!
+smoker3 = Подождите /ctr[%,f0]/y секунд, чтобы притягивать снова!
+smoker4 = Вы не можете притягивать, если вы - /ctr[Немизида!]
+smoker5 = Вы не можете притягивать /ctr[Выжившего!]
+smoker6 = Вы не можете притягивать товарищей по команде!
+smoker7 = Вы можете притягивать /ctr[%d] раз(а)!
+BIND_BUTTONS = Чтобы притягивать, /ctr[bind ^"key^" ^"+drag^",]/y и зажмите установленную кнопку!
+smoker9 = +%d Притяжения%s!
+SMOKER_MENU_TITLE = Притягивать на ^"V^"?
+SMOKER_MENU_YES = Да
+SMOKER_MENU_NO = Нет
+SMOKER_MENU_USE = Притягивать на ^"E^"
+SMOKER_MENU_EXIT = Выход
+
+[en]
+BIG_INFO = Ability /g[Put trap] /y| Number /g[%d] /y| button /g[R]
+BIG_INFO2 = Ability /g [Black screen] /y (passive). Waiting: /g[%d]/y second
+BIG_TIME = Ability through
+BIG_GOTOVO = Ability /g [Black screen] /y ready
+BIG_TRAP = You are trapped and can not move
+BIG_TRAPUSE = You set a trap
+BIG_TRAP2 = Do you have /g[%d]/y traps
+BIG_TRAPNET = Do you run all the traps
+BIG_TRAPUSE2 = You have to stand in place to deliver Trap
+BIG_TRAPNET2 = You can not put sdes trap
+BIG_TRAPYRA = You put the trap
+
+CLASS_SHAMAN = Ability /g[Conjure]/y | Waiting: /g[30]/y sec | Button /g[E]
+CLASS_SHAMAN2 = Again you can /g[Conjure]/y | Button /g[E]
+
+CLASS_SPEED = Dispersal via
+CLASS_INFO = Ability /g[Acceleration]/y ready | Button /g[ALT].
+CLASS_INFO2 = Ability /g[Acceleration]/y Expectation: /g%d/y second | Button /g[ALT]
+
+CLASS_DOCTOR1 = Click /g ATTACK2/y to cure a zombie
+CLASS_DOCTOR2 = Team /g'zp_h_exp'/y explode if xn below , than /ctr%iHP
+CLASS_DOCTOR3 = Healing: %s
+CLASS_DOCTOR4 = Not enough MP to heal
+CLASS_DOCTOR5 = Target out of range
+CLASS_DOCTOR6 = Cancelled healing
+
+smoker1 = You can't drag if you are dead!
+smoker2 = You can't drag anymore!
+smoker3 = Wait /ctr[%,f0]/y sec. to drag again!
+smoker4 = You can't drag if you are /ctr[Nemesis!]
+smoker5 = You can't drag /ctr[Survivor!]
+smoker6 = You can't drag teammates!
+smoker7 = You can drag player to youself /ctr[%d] time%s
+BIND_BUTTONS = To drag player to youself /ctr[bind ^'^'key^'^' ^'^'+drag^'^']/y hold binded key
+smoker9 = +%d drag%s!
+SMOKER_MENU_TITLE = Bind ^"V^" to drag?
+SMOKER_MENU_YES = Yes
+SMOKER_MENU_NO = No
+SMOKER_MENU_USE = Bind ^"E^" to drag
+SMOKER_MENU_EXIT = Exit

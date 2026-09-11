@@ -1,0 +1,63 @@
+[ru]
+VIP_EXTRA_NAME = VIP Экстра предметы
+INV_PAS = неверный (setinfo _pw) пароль!
+AUTHORISED = %s стал ВИПом. (SteamID: ^"%s^") (IP: ^"%s^") (Flags: ^"%s^")
+VIP_CONNECTED = V.I.P игрок %s присоединился
+VIP_STATUS_CON = Связь с админом -- %s
+VIP_STATUS_N = Нет ВИПов онлайн
+VIP_STATUS = ВИПы на сервере:
+MISSING_AMMO = Не хватает %d пак(ов) для покупки.
+NO_ITEMS = Вашему классу недоступны экстра предметы.
+NOT_A_VIP = Вы не являетесь ВИПом.
+OFF = Эта функция отключена.
+BOUGHT_VIP = Вы успешно купили ВИП статус на %d дней.
+
+MENU_TOP = VIP's экстра предметы:
+AMMO = пак(ов)
+NEXT = дальше
+BACK = назад
+EXIT = выход
+
+BUY_MENU_TOP = \yPrice \r%d \yammo packs. Time - \r%d \ydays.^nChoose your authentication type:
+BUY_MENU_TYPE1 = Nick + Password\r(settings)
+BUY_MENU_TYPE2 = SteamID\r(buy)
+BUY_MENU_TYPE3 = IP adress\r(buy)
+
+NICK_BUY_MENU_TOP = After bought, you can't change your nick!^nYour config.cfg file can't be cheked as 'read only'!^n\yYour password: \w%s
+NICK_BUY_MENU_TYPE1 = Generate random
+NICK_BUY_MENU_TYPE2 = How to change password?
+NICK_BUY_MENU_TYPE3 = Everything is ok, buy it \r[\y%d \rammo packs. For \y%d\r days]
+
+NICK_BUY_MENU_SEC_TOP = \yIf you want to set a password, type \rsetinfo _pw password\y in the console^nPassword you can type any what you want.
+
+[en]
+VIP_EXTRA_NAME = *VIP* Extra Items
+INV_PAS = Ivalid (setinfo _pw) password!
+AUTHORISED = %s become VIP. (SteamID: ^"%s^") (IP: ^"%s^") (Flags: ^"%s^")
+VIP_CONNECTED = V.I.P player %s connected
+VIP_STATUS_CON = Admin contacts -- %s
+VIP_STATUS_N = No one
+VIP_STATUS = Connected VIPS:
+MISSING_AMMO = Missing %d ammo packs to buy it.
+NO_ITEMS = There is no extra items for your class.
+NOT_A_VIP = You are not a VIP member.
+OFF = This function is disabled.
+BOUGHT_VIP = You sucessfully bought VIP for %d days.
+
+MENU_TOP = VIP's extra items:
+AMMO = ammo
+NEXT = Next
+BACK = Back
+EXIT = Exit
+
+BUY_MENU_TOP = \yPrice \r%d \yammo packs. Time - \r%d \ydays.^nChoose your authentication type:
+BUY_MENU_TYPE1 = Nick + Password\r(settings)
+BUY_MENU_TYPE2 = SteamID\r(buy)
+BUY_MENU_TYPE3 = IP adress\r(buy)
+
+NICK_BUY_MENU_TOP = After bought, you can't change your nick!^nYour config.cfg file can't be cheked as 'read only'!^n\yYour password: \w%s
+NICK_BUY_MENU_TYPE1 = Generate random
+NICK_BUY_MENU_TYPE2 = How to change password?
+NICK_BUY_MENU_TYPE3 = Everything is ok, buy it \r[\y%d \rammo packs. For \y%d\r days]
+
+NICK_BUY_MENU_SEC_TOP = \yIf you want to set a password, type \rsetinfo _pw password\y in the console^nPassword you can type any what you want.

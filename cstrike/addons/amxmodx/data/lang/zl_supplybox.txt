@@ -1,0 +1,5 @@
+[en]
+SUPPLY_SPAWN = Box prize %d$ rewards.
+
+[ru]
+SUPPLY_SPAWN = Вы получили %d Паков за поднятие ящика.

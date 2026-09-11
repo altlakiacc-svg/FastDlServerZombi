@@ -1,0 +1,16 @@
+[en]
+RED_YELLOW = [!gAlienBoss!y] First colour !gRED!y and second colour !gYELLOW
+RED_BLUE = [!gAlienBoss!y] First colour !gRED!y and second colour !gBLUE
+RED_GREEN = [!gAlienBoss!y] First colour !gRED!y and second colour !gGREEN
+YELLOW_BLUE = [!gAlienBoss!y] First colour !gYELLOW!y and second colour !gBLUE
+YELLOW_GREEN = [!gAlienBoss!y] First colour !gYELLOW!y and second colour !gGREEN
+BLUE_GREEN = [!gAlienBoss!y] First colour !gBLUE!y and second colour !gGREEN
+
+
+[ru]
+RED_YELLOW = [!gAlienBoss!y] Босс смешал !gКрасный!y и !gЖелтый !yцвет
+RED_BLUE = [!gAlienBoss!y] Босс смешал !gКрасный!y и !gСиний !yцвет
+RED_GREEN = [!gAlienBoss!y] Босс смешал !gКрасный!y и !gЗеленый !yцвет
+YELLOW_BLUE = [!gAlienBoss!y] Босс смешал !gЖелтый!y и !gСиний !yцвет
+YELLOW_GREEN = [!gAlienBoss!y] Босс смешал !gЖелтый!y и !gЗеленый !yцвет
+BLUE_GREEN = [!gAlienBoss!y] Босс смешал !gСиний!y и !gЗеленый !yцвет
