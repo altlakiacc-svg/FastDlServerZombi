@@ -1,0 +1,14 @@
+//overview description file for zm_deko2.bsp
+
+global
+{
+	ZOOM	2.19
+	ORIGIN	-1341.50       506.81	     180
+	ROTATED 0
+}
+
+layer
+{
+	IMAGE	"overviews/zm_deko2.bmp"
+	HEIGHT	-295
+} 
